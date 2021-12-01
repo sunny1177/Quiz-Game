@@ -46,7 +46,7 @@ def display_score(correct_guesses, guesses):
 def play_again():
     pass
 #----------------------------
-
+#The Questions you want to input, you can put here.
 Questions = {
     "Who is creato of Python?:" : "A",
     "What year was Python created?:" : "B",
@@ -54,7 +54,7 @@ Questions = {
     "Is the Earth round?:" : "A"
 
 }
-
+#The Options you want to input for each questions, you can put here.
 options = [["A.Guido van Rossum","B.Ellon Mask","C.Bill Gates","D.Sunny"],
 ["A.1989","B.1991","C.2000","D.2016"],
 ["A.Lonley Island","B.Smosh","c.Monty Python","D.SNL"],
